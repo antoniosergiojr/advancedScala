@@ -1,4 +1,4 @@
-## Scala Beginners | [Advanced Scala and Functional Programming | Rock the JVM]
+## Scala | [Advanced Scala and Functional Programming | Rock the JVM]
 
 Simple project with Scala.
 
